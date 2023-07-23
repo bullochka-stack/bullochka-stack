@@ -1,22 +1,70 @@
-### Hi there 👋
+### Hi there! I'm Tamerlan 👋 
 
 # 💫 About Me:
-🔭 At the moment I am a graduate of the St. Petersburg State Marine Technical University with a degree in Computational Technologies of Ship Mechanics. <br>      Graduated from the university in 2022.<br><br>🌱 Python started learning in 2016. <br>      Mainly used for educational projects in which it was necessary to carry out complex calculations. <br>      Over the past 4 years, I have been writing both educational and commercial programs (mostly parsers) in the Python programming language in order to earn additional income. <br>      There was also experience in writing Telegram bots.<br>      In the process of developing parsers, I became interested in web development. I started learning Django on which I wrote a blog. <br>      In the process of studying web development, I got acquainted with relational databases, the MVT pattern in Django, and practiced HTML and CSS.<br>
+🔭 I am a backend developer. I mainly use Python (Django, FastAPI), but I also study GoLang. On github, basically, I post projects on which I learn something new.<br><br>🌱 There are plans for further development towards backend development.<br>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tamerlan-kabulov/) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Frontend technologies:
+<p align="center">
+    <a href="https://www.w3.org/html/" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="50" height="50" /> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="50" height="50" /> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="50" height="50" /> </a>
+</p>
+
+### Backend technologies:
+
+<p align="center">
+    <img src="https://github.com/bullochka-stack/bullochka-stack/assets/63292154/f56c8ded-c159-4e03-ae74-b1f0a56dce46"
+            alt="python" width="50" height="50" />
+    <img src="https://github.com/bullochka-stack/bullochka-stack/assets/63292154/a7c40776-ee6e-4c17-985b-0dce6aeb0b85"
+            alt="django" width="50" height="50" />
+    <img src="https://github.com/bullochka-stack/bullochka-stack/assets/63292154/dff612ad-d137-4b06-93ec-9892f2551cbc"
+            alt="fastapi" width="50" height="50" />
+    <img src="https://aiogram.dev/img/logo.c95d892f.png"
+            alt="aiogram" width="50" height="50" />
+    <img src="https://github.com/bullochka-stack/bullochka-stack/assets/63292154/5906bc30-4a0d-477d-a8ec-19268e2c2094"
+            alt="postgresql" width="50" height="50" />
+    <img src="https://github.com/bullochka-stack/bullochka-stack/assets/63292154/1886ab85-b4f2-4b37-afdc-60b1755365fd"
+            alt="sqlite" width="50" height="50" />
+    <img src="https://github.com/bullochka-stack/bullochka-stack/assets/63292154/7f9ecf0c-baad-4640-b7df-591b614f3237"
+            alt="neo4j" width="50" height="50" />
+    <img src="https://github.com/bullochka-stack/bullochka-stack/assets/63292154/52b681dd-735d-4e39-b9db-3833f54fcdf9"
+            alt="redis" width="50" height="50" />
+    <img src="https://github.com/bullochka-stack/bullochka-stack/assets/63292154/179668b6-b092-4349-89a3-e2ac5aa32019"
+            alt="nginx" width="50" height="50" />
+    <img src="https://github.com/bullochka-stack/bullochka-stack/assets/63292154/967994d8-ac6f-40f0-b511-511777625d5b"
+            alt="sqlalchemy" width="50" height="50" />
+</p>
+
+### Other technologies:
+
+<p align="center">
+    <img src="https://github.com/bullochka-stack/bullochka-stack/assets/63292154/c39e57a0-456d-48f7-bc2e-ef9554487e17"
+            alt="docker" width="50" height="50" />
+    <img src="https://github.com/bullochka-stack/bullochka-stack/assets/63292154/1a531915-4043-4271-94e9-5fe41fc540ba"
+            alt="linux" width="50" height="50" />
+    <img src="https://github.com/bullochka-stack/bullochka-stack/assets/63292154/6e32bdba-62a5-452c-9686-370168e96c5c"
+            alt="git" width="50" height="50" />
+    <img src="https://github.com/bullochka-stack/bullochka-stack/assets/63292154/6b1a4d60-763c-4be9-9b5a-c86f3e4f704a"
+            alt="bash" width="50" height="50" />
+</p>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vendetta-source&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vendetta-source&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vendetta-source&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bullochka-stack&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bullochka-stack&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bullochka-stack&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vendetta-source&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Vendetta-source&icon=2&color=4)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=bullochka-stack&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
