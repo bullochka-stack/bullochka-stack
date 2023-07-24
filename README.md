@@ -1,7 +1,7 @@
 ### Hi there! I'm Tamerlan 👋 
 
 # 💫 About Me:
-🔭 I am a backend developer. I mainly use Python (Django, FastAPI), but I also study GoLang. On github, basically, I post projects on which I learn something new.<br><br>🌱 There are plans for further development towards backend development.<br>
+🔭 I am a backend developer. I mainly use Python (Django, FastAPI), but I also study GoLang. On github, basically, I post projects on which I learn something new.<br><br>
 
 
 ## 🌐 Socials:
@@ -63,7 +63,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bullochka-stack&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bullochka-stack&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bullochka-stack&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bullochka-stack&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bullochka-stack&theme=radical&no-frame=false&no-bg=false&margin-w=4)
